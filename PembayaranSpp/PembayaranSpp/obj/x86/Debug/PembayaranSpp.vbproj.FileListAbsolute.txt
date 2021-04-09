@@ -1,0 +1,9 @@
+C:\Users\TEGAR\Documents\Visual Studio 2010\Projects\PembayaranSpp\PembayaranSpp\bin\Debug\PembayaranSpp.exe
+C:\Users\TEGAR\Documents\Visual Studio 2010\Projects\PembayaranSpp\PembayaranSpp\bin\Debug\PembayaranSpp.pdb
+C:\Users\TEGAR\Documents\Visual Studio 2010\Projects\PembayaranSpp\PembayaranSpp\bin\Debug\PembayaranSpp.xml
+C:\Users\TEGAR\Documents\Visual Studio 2010\Projects\PembayaranSpp\PembayaranSpp\obj\x86\Debug\PembayaranSpp.Form1.resources
+C:\Users\TEGAR\Documents\Visual Studio 2010\Projects\PembayaranSpp\PembayaranSpp\obj\x86\Debug\PembayaranSpp.Resources.resources
+C:\Users\TEGAR\Documents\Visual Studio 2010\Projects\PembayaranSpp\PembayaranSpp\obj\x86\Debug\PembayaranSpp.vbproj.GenerateResource.Cache
+C:\Users\TEGAR\Documents\Visual Studio 2010\Projects\PembayaranSpp\PembayaranSpp\obj\x86\Debug\PembayaranSpp.exe
+C:\Users\TEGAR\Documents\Visual Studio 2010\Projects\PembayaranSpp\PembayaranSpp\obj\x86\Debug\PembayaranSpp.xml
+C:\Users\TEGAR\Documents\Visual Studio 2010\Projects\PembayaranSpp\PembayaranSpp\obj\x86\Debug\PembayaranSpp.pdb
